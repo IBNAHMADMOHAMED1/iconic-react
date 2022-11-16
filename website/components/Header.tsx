@@ -42,7 +42,7 @@ export const Header = () => {
       </div>
       <div className="flex flex-col items-center my-36">
         <h1 className="text-4xl text-center md:text-6xl font-bold flex-row break-words">
-          ICONS for React 
+          ICONS for React
         </h1>
 
         <div className="flex-auto flex space-x-3 text-xs md:text-sm h-11 mt-7">
@@ -54,7 +54,7 @@ export const Header = () => {
             <a
               target="_blank"
               rel="noreferrer"
-              href=""
+              href="https://www.npmjs.com/package/react-iconkillua"
               className="border-r-2 h-full border-border px-4  flex items-center justify-center"
             >
               React
