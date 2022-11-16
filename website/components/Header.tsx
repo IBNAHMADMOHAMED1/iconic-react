@@ -54,15 +54,14 @@ export const Header = () => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://www.npmjs.com/package/iconsax-react"
+              href=""
               className="border-r-2 h-full border-border px-4  flex items-center justify-center"
             >
               React
             </a>
             <a
-              target="_blank"
               rel="noreferrer"
-              href="https://www.npmjs.com/package/iconsax-react-native"
+              href=""
               className="h-full flex items-center justify-center px-4"
             >
               React Native
