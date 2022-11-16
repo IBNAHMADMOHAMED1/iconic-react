@@ -1,0 +1,42 @@
+{
+  "name": "iconsax",
+  "description": "iconsax for react and react native",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "website"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendinjast/iconsax-react.git"
+  },
+  "version": "0.0.8",
+  "scripts": {
+    "gen": "node ./scripts/build.js",
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build --ignore website",
+    "website": "yarn workspace website",
+    "website:dev": "yarn website dev",
+    "website:build": "yarn website build",
+    "website:start": "yarn website start"
+  },
+  "devDependencies": {
+    "camelcase": "^6.2.0",
+    "cheerio": "^1.0.0-rc.10",
+    "lerna": "^4.0.0",
+    "prettier-eslint": "^13.0.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "bugs": {
+    "url": "https://github.com/rendinjast/iconsax-react/issues"
+  },
+  "homepage": "https://github.com/rendinjast/iconsax-react#readme",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
