@@ -1,5 +1,3 @@
-// this script is used to fetch the icon of a website
-
 const path = require('path');
 const fs = require('fs');
 
