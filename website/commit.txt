@@ -1,0 +1,33 @@
+.gitignore
+        .prettierrc
+        .vscode/
+        CONTRIBUTING.md
+        LICENSE
+        lerna.json
+        meta-data.json
+        package-lock.json
+        package.json
+        packages/.babelrc
+        packages/.npmignore
+        packages/README.md
+        packages/rollup.config.js
+        packages/yarn.lock
+        website/.eslintrc.json
+        website/.prettierrc
+        website/.vscode/
+        website/commit.txt
+        website/lib/
+        website/next-env.d.ts
+        website/next.config.js
+        website/package.json
+        website/pages/_app.tsx
+        website/pages/_document.tsx
+        website/pages/api/
+        website/postcss.config.js
+        website/public/
+        website/styles/
+        website/tailwind.config.js
+        website/tsconfig.json
+        yarn.lock
+
+ 
