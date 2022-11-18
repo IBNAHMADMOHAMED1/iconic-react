@@ -1,19 +1,20 @@
 {
-  "name": "react-iconkillua",
-  "version": "0.0.3",
-  "description": "react-iconkillua icon pack for React",
+  "name": "iconic-react",
+  "version": "0.1.0",
+  "description": "iconic-react icons pack for React",
   "author": "Ibnahmad Mohamed <Ibnahmadmohamed8@gmail.com>",
-  "homepage": "https://iconsax-react.pages.dev/",
+  "homepage": "https://icon-react.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "git+hhttps://github.com/IBNAHMADMOHAMED1/react-iconkillua-.git",
+    "url": "https://github.com/IBNAHMADMOHAMED1/iconic-react.git",
     "directory": "packages/"
   },
   "bugs": {
     "url": "https://github.com/IBNAHMADMOHAMED1/issues"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "license": "MIT",
   "main": "dist/cjs/index.js",
@@ -30,10 +31,10 @@
     "reactjs",
     "icons components",
     "iconsax",
-    "iconkillua",
+    "iconic",
     "reactjs icons",
     "reactjs icons components",
-    "reactjs iconkillua"
+    "iconic-react"
   ],
   "files": [
     "dist"
