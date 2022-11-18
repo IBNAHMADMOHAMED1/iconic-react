@@ -15,14 +15,16 @@ Perfectly balance |
 <br>
 
 > ©️ iconsax <a href="https://iconsax.io/">github</a> and <a href="https://iconsax.io/">official
-> website</a>(other format and platform available)
+> website</a>(other format and platform  available)
 
 ## Installation
 
 ```bash
-yarn add react-iconkillua
+yarn add iconic-react
+
 # or
-npm i react-iconkillua
+npm i iconic-react
+
 ```
 
 ## Usage
@@ -30,7 +32,7 @@ npm i react-iconkillua
 ```jsx
 import React from 'react';
 //import icon.
-import { EmojiHappy } from 'react-iconkillua';
+import { EmojiHappy } from 'iconic-react';
 
 const Example = () => {
   // then use it as a normal React Component
