@@ -1,6 +1,6 @@
 {
-  "name": "iconsax",
-  "description": "iconsax for react and react native",
+  "name": "iconic",
+  "description": "iconic for react and react native",
   "private": true,
   "workspaces": {
     "packages": [
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rendinjast/iconsax-react.git"
+    "url": "git+https://github.com/IBNAHMADMOHAMED1/iconic-react.git"
   },
   "version": "0.0.8",
   "scripts": {
@@ -32,9 +32,9 @@
     "yarn": "^1.22.19"
   },
   "bugs": {
-    "url": "https://github.com/rendinjast/iconsax-react/issues"
+    "url": "https://github.com/IBNAHMADMOHAMED1/iconic-react.git/issues"
   },
-  "homepage": "https://github.com/rendinjast/iconsax-react#readme",
+  "homepage": "https://github.com/IBNAHMADMOHAMED1/iconic-react.git#readme",
   "main": "index.js",
   "keywords": [],
   "author": "",

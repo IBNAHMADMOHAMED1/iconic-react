@@ -1,5 +1,4 @@
-
-<h1 align="center">react-iconkillua for React</h1>
+<h1 align="center">iconic-react package React components</h1>
 
 
 
@@ -10,7 +9,7 @@ Perfectly balance |
 <p>
 
 <p align="center">
-  <a href=""><strong>Browse icons at site</strong></a>
+  <a href="https://icon-react.vercel.app/"><strong>Browse icons at site</strong></a>
 </p>
 <br>
 <br>
@@ -61,8 +60,10 @@ You can configure Icons with inline props:
 ## Contributing
 
 See
-<a href="https://github.com/IBNAHMADMOHAMED1/react-iconkillua-/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>
+<a href="https://github.com/IBNAHMADMOHAMED1/iconic-react/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>
 
 ## License
 
-<a href="https://github.com/IBNAHMADMOHAMED1/react-iconkillua-/blob/main/LICENSE">MIT</a>
+> ©️ ALL RIGHTS RESERVED TO IBNAHMAD MOHAMED
+
+<a href="https://github.com/IBNAHMADMOHAMED1/iconic-react/blob/main/LICENSE">MIT</a>

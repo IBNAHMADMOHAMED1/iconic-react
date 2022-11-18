@@ -81,6 +81,8 @@ const switchStatementForVariants = (iconsAllVariant) => {
     (iav) => `
   case '${iav.variant}':
     return <${iav.variant} color={color} />
+
+    // Make sure to add star to my repo if you like it IBNAHMADMOGAMED1 :)
     `,
   );
   return `const chooseVariant = (variant, color) => {
